@@ -6,5 +6,5 @@ Usage:
 
 ```
 # will extract 1000 random positions
-$ python extract.py </path/to/location-file.json> 1000
+$ python extract.py /path/to/location-file.json 1000
 ```
